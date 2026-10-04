@@ -30,7 +30,7 @@ const experiences = [
     id: '04',
     title: 'Your Private Vistas.',
     desc: 'A retreat features a plush king bed and expansive lake vistas from a private sanctuary.',
-    img: '/media/l7.png', 
+    img: '/media/l12.png', 
   },
   {
     id: '05',
